@@ -1,16 +1,13 @@
-## Hi there 👋
+ Phal Adamou
 
-<!--
-**phaladamou/phaladamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student and independent builder exploring AI agents, autonomous systems, and software infrastructure.
 
-Here are some ideas to get you started:
+I build systems that can work — not just respond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building Employee, an open-source runtime for AI workers, and Scientia Labs, a platform for science and experimentation.
+
+I write about AI, systems, and the future of software. I believe in learning deeply, building relentlessly, and thinking long-term.
+
+---
+
+[Website](https://phaladamou.github.io) · [X](https://x.com/phaladamou) · [LinkedIn](https://www.linkedin.com/in/phal-adamou-5148a8306/) · [Substack](https://substack.com/@phaladamou) · [Email](mailto:phaladrien@gmail.com)
