@@ -1,6 +1,6 @@
 Phal Adamou
 
-I'm a computer science student and independent builder exploring AI agents, autonomous systems, and software infrastructure.
+I'm a Mathematics and computer science student and independent builder exploring AI agents, autonomous systems, and software infrastructure.
 
 I build systems that can work, not just respond.
 
