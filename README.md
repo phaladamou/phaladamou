@@ -18,7 +18,7 @@ I am also actively building:
 
 I believe that for the best minds, AI can be used as an extension of themselves to produce 50 times more. Not as a replacement. As an amplifier.
 
-That is why, on October 10, 2026, I started a personal challenge: to use this leverage at its highest level to produce the maximum possible output. The bar is set at 100 real commits per day. No noise. No filler commits. Every commit adds a capability that is testable, documented, and deliverable.
+That is why, on October 10, 2026, I started a personal challenge: to use this leverage at its highest level to produce the maximum possible output. The bar is set at 50 real commits per day. No noise. No filler commits. Every commit adds a capability that is testable, documented, and deliverable.
 
 I write about AI, systems, and the future of software. I believe in learning deeply, building relentlessly, and thinking long-term.
 
