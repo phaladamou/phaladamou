@@ -8,13 +8,13 @@ Currently building Afriq, a data intelligence platform for African data. It is d
 
 I am also actively building:
 
-**Employee** — an open-source runtime for autonomous AI workers. [github.com/phaladamou/employee](https://github.com/phaladamou/employee)
+**[Employee](https://github.com/phaladamou/employee)** — an open-source runtime for autonomous AI workers.
 
-**Autonomous Scientist** — a platform for science and experimentation. [github.com/phaladamou/Autonomous-Scientist](https://github.com/phaladamou/Autonomous-Scientist)
+**[Autonomous Scientist](https://github.com/phaladamou/Autonomous-Scientist)** — a platform for science and experimentation.
 
-**Open Robot Brain** — a cognitive architecture for robots. [github.com/phaladamou/Open-Robot-Brain](https://github.com/phaladamou/Open-Robot-Brain)
+**[Open Robot Brain](https://github.com/phaladamou/Open-Robot-Brain)** — a cognitive architecture for robots.
 
-**Personal Cloud** — a persistent personal computing environment. [github.com/phaladamou/personal-cloud](https://github.com/phaladamou/personal-cloud)
+**[Personal Cloud](https://github.com/phaladamou/personal-cloud)** — a persistent personal computing environment.
 
 I believe that for the best minds, AI can be used as an extension of themselves to produce 50 times more. Not as a replacement. As an amplifier.
 
