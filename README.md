@@ -10,7 +10,7 @@ I am also actively building:
 
 **[Employee](https://github.com/phaladamou/employee)** : an open-source runtime for autonomous AI workers.
 
-**[Autonomous Scientist](https://github.com/phaladamou/Autonomous-Scientist)** : a platform for science and experimentation.
+
 
 **[Open Robot Brain](https://github.com/phaladamou/Open-Robot-Brain)** : a cognitive architecture for robots.
 
